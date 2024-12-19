@@ -11,6 +11,9 @@ The Website of the cccb, which can be found at [berlin.ccc.de](https://berlin.cc
 ### [Plenum Bot](https://git.berlin.ccc.de/murmeldin/plenum-bot)
 The reminder and e-mail bot for the bi-weekly plenum.
 
+### [servicepoint library](https://github.com/cccb/servicepoint)
+The library for the Airport Display in the livingroom of the cccb.
+
 <!--
 
 **Here are some ideas to get you started:**
