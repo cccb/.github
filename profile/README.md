@@ -1,4 +1,4 @@
-## The Chaos Computer Club Organization
+## The Chaos Computer Club
 
 One of the original CCC hackerspaces located conveniently in central Berlin.
 We are a meeting spot for hackers with a lounge and facilities for small events.
