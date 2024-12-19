@@ -3,7 +3,7 @@
 One of the original CCC hackerspaces located conveniently in central Berlin.
 We are a meeting spot for hackers with a lounge and facilities for small events.
 
-🏳️‍⚧️🏳️‍🌈 friendly, 🏴‍☠️ house, discordian, all creatures welcome.
+<img draggable="false" class="emojione custom-emoji" alt=":progress_pride:" title=":progress_pride:" src="https://assets.chaos.social/custom_emojis/images/000/261/515/original/2530eb69c2b0240c.png" height="20px"> friendly, 🏴‍☠️ house, discordian, all creatures welcome.
 
 ## Active Projects
 ### [Website](https://github.com/cccb/www)
